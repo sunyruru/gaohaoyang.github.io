@@ -36,3 +36,7 @@ npm i tulind --only=production
 node gekko --ui
 
 ```
+
+[http://gekkowarez.com/category/gekko-tips/](http://gekkowarez.com/category/gekko-tips/)
+
+[https://www.ddengle.com/develop/4796977](https://www.ddengle.com/develop/4796977)
