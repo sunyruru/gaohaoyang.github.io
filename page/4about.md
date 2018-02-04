@@ -12,15 +12,15 @@ type: page
 
 # sunyruru
 
-<iframe src="https://githubbadge.appspot.com/gaohaoyang?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0" />
+<!--iframe src="https://githubbadge.appspot.com/gaohaoyang?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0" /-->
 
-* 2018-01-24 블로그 새로시작
+* 2018-01-24 블로그 새로 시작
 
 ## 연결
 
 * GitHub：[github](https://github.com/sunyruru)
 * email：sunyruru@github.com
-* [Facebook](https://www.facebook.com/gaohaoyang.water)
+* [Facebook](https://www.facebook.com/sunyruru)
 * [Twitter](https://twitter.com/gaohaoyang126)
 
 ## 关于本站
