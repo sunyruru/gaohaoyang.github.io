@@ -14,8 +14,6 @@ type: page
 
 <iframe src="https://githubbadge.appspot.com/sunyruru?s=1&a=0" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
-[[include ref=https://githubbadge.appspot.com/sunyruru?s=1&a=0]]
-
 * 2018-01-24 블로그 새로 시작
 
 ## 연결
