@@ -13,17 +13,23 @@ type: page
 
 ### 블로그 (Blogs)
 
-* Node, Vue, MongoDB, React 등 포함 - <https://velopert.com/>
+* <https://velopert.com/>
+
+  Node, Vue, MongoDB, React 등 포함
 
 ## 참고 글목록 (Articles)
 
 ### Node.js
 
-* 12.1 편: GULP – JavaScript 빌드 자동화툴 알아보기 + ES6 문법으로 사용해보기 - <https://velopert.com/1344>
+* <https://velopert.com/1344>
+
+  12.1 편: GULP – JavaScript 빌드 자동화툴 알아보기 + ES6 문법으로 사용해보기
 
 ### 암호화폐
 
-* 암호화폐 수익률 시뮬레이팅 - <https://bitimulate.com/>
+* <https://bitimulate.com/>
+
+  암호화폐 수익률 시뮬레이팅
 
 ## 工具
 
