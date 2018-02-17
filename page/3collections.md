@@ -25,6 +25,8 @@ type: page
 
   12.1 편: GULP – JavaScript 빌드 자동화툴 알아보기 + ES6 문법으로 사용해보기
 
+* [Mac에서 Node.js 설치하기](http://junsikshim.github.io/2016/01/29/Mac%EC%97%90%EC%84%9C-Node.js-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0.html)
+
 ### 암호화폐
 
 * <https://bitimulate.com/>
