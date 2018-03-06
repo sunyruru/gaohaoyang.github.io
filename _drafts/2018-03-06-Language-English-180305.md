@@ -14,4 +14,3 @@ author: sunyruru
 ### Word
 
 * [implicit](http://m.endic.naver.com/enkrEntry.nhn?entryId=9b18abb7b7db479781eef4027433d283)
-
