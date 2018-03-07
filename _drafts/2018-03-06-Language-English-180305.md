@@ -11,13 +11,8 @@ author: sunyruru
 
 ## 0306
 
-### Word
-
 * [implicit](http://m.endic.naver.com/enkrEntry.nhn?entryId=9b18abb7b7db479781eef4027433d283)
 
 ## 0307
 
-### Word
-
 * [slumber](http://m.endic.naver.com/enkrEntry.nhn?entryId=9ac2f864d8ed44f38dea176f2c705625)
-
