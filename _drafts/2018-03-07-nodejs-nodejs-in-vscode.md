@@ -14,3 +14,11 @@ author: sunyruru
 ### Visual Studio Code
 
 * <https://code.visualstudio.com/docs/nodejs/nodejs-tutorial>
+
+* [Node.js, Socket.io (1/4)](http://bcho.tistory.com/89)
+
+* [Socket.io API 요약 (2/4)](http://bcho.tistory.com/899?category=513811)
+
+* [Socket.io 채팅 귓속말 구현 (3/4)](http://bcho.tistory.com/897?category=513811)
+
+* [Socket.io 채팅 기능 구현 (4/4)](http://bcho.tistory.com/900?category=513811)
