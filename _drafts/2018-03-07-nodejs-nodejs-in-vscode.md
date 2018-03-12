@@ -22,3 +22,5 @@ author: sunyruru
 * [Socket.io 채팅 귓속말 구현 (3/4)](http://bcho.tistory.com/897?category=513811)
 
 * [Socket.io 채팅 기능 구현 (4/4)](http://bcho.tistory.com/900?category=513811)
+
+* [Generator and Co](http://blog.hellworld.me/6)
