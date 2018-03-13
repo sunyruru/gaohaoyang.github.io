@@ -11,8 +11,6 @@ author: sunyruru
 
 ## 참고 문서
 
-### StackOverflow
-
 * <https://stackoverflow.com/questions/44893797/how-do-i-set-up-continuous-integration-of-a-node-js-webjob-in-vsts>
 
 * <https://docs.microsoft.com/en-us/vsts/build-release/archive/apps/nodejs/quick-to-azure>
