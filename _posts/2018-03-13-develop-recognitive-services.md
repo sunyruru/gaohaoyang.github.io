@@ -5,7 +5,7 @@ categories: Develop
 tags: develop recognitive services face api microsoft ms
 author: sunyruru
 ---
-# Microsoft recognitive-services
+# Microsoft Cognitive-services
 
 {:toc}
 
