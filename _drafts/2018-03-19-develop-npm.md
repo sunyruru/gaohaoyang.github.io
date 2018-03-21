@@ -24,3 +24,16 @@ tags: node.js npm
 * gulp
 
 * mvn
+
+* vue eslint
+
+>```bash
+>vue init webpack my-project
+>cd my-project
+>npm install 
+>npm install --save-dev eslint eslint-plugin-vue@next
+>```
+
+* webpack : `npm i -g webpack`
+
+* webpack : `npm i webpack-cli -D -g`
