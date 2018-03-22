@@ -9,6 +9,8 @@ tags: node.js npm
 
 * eslint
 
+  * [Configuration Eslint](https://eslint.org/docs/user-guide/configuring)
+
 * lodash
 
 * pm2
@@ -30,7 +32,7 @@ tags: node.js npm
 >```bash
 >vue init webpack my-project
 >cd my-project
->npm install 
+>npm install
 >npm install --save-dev eslint eslint-plugin-vue@next
 >```
 
