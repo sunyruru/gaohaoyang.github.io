@@ -11,11 +11,19 @@ type: page
 
 ## 사이트 모음 (Sites)
 
+### 서비스 (Services)
+
+* <http://heroku.com>
+
+* <http://codeanywhere.com>
+
 ### 블로그 (Blogs)
 
 * <https://velopert.com/>
 
   Node, Vue, MongoDB, React 등 포함
+
+* [조대협의 블로그](http://bcho.tistory.com)
 
 ## 참고 글목록 (Articles)
 
@@ -33,7 +41,7 @@ type: page
 
   암호화폐 수익률 시뮬레이팅
 
-## 工具
+## 도구 (Tools)
 
 * [box-shadow generator](http://www.cssmatic.com/box-shadow)
 
